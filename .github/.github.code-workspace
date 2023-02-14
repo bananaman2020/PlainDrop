@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../docs"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../public_included_ws_fallback"
+		}
+	],
+	"settings": {}
+}
